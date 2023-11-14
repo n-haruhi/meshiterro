@@ -22,3 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+# DMM WEBCAMPの学習コンテンツ、アプリケーションを完成させよう2で作成しているアプリケーションです。
